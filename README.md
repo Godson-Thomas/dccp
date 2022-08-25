@@ -17,7 +17,7 @@ cd /etc/init.d
 vi krun
 ```
 
-<img src="https://github.com/Godson-Thomas/dccp/blob/master/d2.png" width="700">  <br><br>
+<img src="https://github.com/Godson-Thomas/dccp/blob/master/d2.png" width="550">  <br><br>
 
 ```
 reboot
