@@ -21,6 +21,8 @@ vi krun
 
 ```
 reboot
+
+ps
 ```
 
 <br>
