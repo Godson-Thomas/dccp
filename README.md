@@ -1,9 +1,15 @@
-## _Disable dccp process_
-
 ```
 ps
 ```
 <img src="https://github.com/Godson-Thomas/dccp/blob/master/d1.png" width="700">  <br><br>
+
+
+
+
+
+## _Disable dccp process_
+
+
 
 ```
 cd /etc/init.d
